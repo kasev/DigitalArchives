@@ -19,6 +19,7 @@ Read here about the software and go into the Installation section to install and
 - [VOYANT](http://docs.voyant-tools.org/resources/run-your-own/voyant-server/#download): This is a rather large download [~450Mb], requiring solid internet connection. 
 
 - DATA (on Shared drive:ARTS_DigitalArchives2020): This dataset has been digitized and curated for this class by the Aarhus Stadtsarkivet. It contains the entirety of the minutes filed during 1939-1945. Please, get on  eduroam or, if working from home, on [VPN](https://medarbejdere.au.dk/administration/it/vejledninger/netvaerk/vpn/) and [shared drive ](https://medarbejdere.au.dk/administration/it/vejledninger/dataopbevaring/tilgaa-delt-folder/) to download all of the datasets on your computer. The data is NOT in public domain *yet* and under no conditions should you circulate or disseminate it online, or outside the present class. If you violate this rule, you will be liable for breaching the AU code of conduct and the privacy law in Denmark. 
+<!--- it seems that These two links are for employees - we have to change it for students --->
 
 ## Installation
 
